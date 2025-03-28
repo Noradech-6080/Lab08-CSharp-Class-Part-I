@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LvVXKkhdnF4b5/7RN/nn0L+27U9Dl//K3YPaVq1aW6PgwCVjQNcx0VnliiUFuzupXurSrCbSMDlk9hVLj/xiow==",
+  "dgSpecHash": "LBDFbLIZOSE=",
   "success": true,
-  "projectFilePath": "D:\\github_K\\Lab08-CSharp-Class-Part-I\\Lab08_Ex01\\Lab08_Ex01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\github\\Lab08-CSharp-Class-Part-I\\Lab08_Ex01\\Lab08_Ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
